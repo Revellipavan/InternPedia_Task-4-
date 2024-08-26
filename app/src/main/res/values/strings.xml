@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WakeUp Buddy</string>
+    <string name="set_alarm_time">Set Alarm Time</string>
+    <string name="set_alarm">Set Alarm</string>
+</resources>
